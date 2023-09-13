@@ -1,0 +1,14 @@
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\bin\Debug\net7.0\Account.exe
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\bin\Debug\net7.0\Account.deps.json
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\bin\Debug\net7.0\Account.runtimeconfig.json
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\bin\Debug\net7.0\Account.dll
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\bin\Debug\net7.0\Account.pdb
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\Account.AssemblyInfoInputs.cache
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\Account.AssemblyInfo.cs
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\Account.dll
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\refint\Account.dll
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\Account.pdb
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\Account.genruntimeconfig.cache
+C:\Users\anzarie\OneDrive\Documents\OOP\Lab\Lab2\Account\obj\Debug\net7.0\ref\Account.dll
